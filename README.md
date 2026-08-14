@@ -18,10 +18,10 @@ _The app also updates itself over-the-air on reopen, so you get fixes between AP
 ## ✨ Features
 
 - **Home dashboard** — Overview / Insights toggle.
-  - *Overview*: net worth, **Cash & Bank**, and **Investments** (with **daily change**), each with a colour-bar breakdown.
+  - *Overview*: net worth, **Cash & Bank**, and **Investments** (with **daily change**); tap a card to expand its breakdown.
   - *Insights*: plain-language **highlights**, a **savings-rate** KPI card, **spending vs the previous period** with **⚠️ >20% jump** alerts (works for any date range), recurring commitments, a savings-goal bar, expenses-by-category, and more charts on demand.
-- **Transactions** — quick add, **split** one payment across categories, date & time pickers, powerful filters (type, category, event, date range), tap-to-drill-down, undo on delete.
-- **Investments** — one unified list of **investment types** (Stock, Mutual Fund, Gold, FD, Chit…, each with its own icon); holdings with **live prices**, **day change**, average cost, **XIRR**, dividends, and sell/redeem.
+- **Transactions** — one-tap quick-filter chips + a **‹ month ›** stepper, top-bar search, and advanced filters (category, event, custom range) under **Filters**; **sliding chip pickers** when adding; tap-to-edit, undo on delete.
+- **Investments** — a list of holdings (each holding = an account you invest into). **＋ Add → Add investment / New holding**; every investment goes into a holding. Live prices, **day change**, average cost, **XIRR**, dividends, and sell/redeem.
 - **Accounts & Loans** — bank/cash/credit accounts; personal loans (🟢 Lent / 🔴 Borrowed) and bank loans with EMIs; repayments entered by amount with account selection and an editable history.
 - **Budgets, recurring bills, life events & goals** — with optional budget alerts and bill reminders.
 - **Light / Dark / System** themes · **hide-amounts** privacy toggle · home-screen widgets (Overview + Quick Add).
