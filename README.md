@@ -17,7 +17,8 @@ _The app also updates itself over-the-air on reopen, so you get fixes between AP
 
 ## ✨ Features
 
-- **Home dashboard** — Overview / Insights toggle.
+- **Insights tab** — a dedicated tab (centre of the bar) with a **donut** (total in the centre, **tap to flip** Expenses ⇆ Income) and **per-category spend trends**; **More** now lives under a top **☰**.
+- **Home dashboard** — net worth, cash & bank, investments (with daily change); tap a card to expand its breakdown.
   - *Overview*: net worth, **Cash & Bank**, and **Investments** (with **daily change**); tap a card to expand its breakdown.
   - *Insights*: plain-language **highlights**, a **savings-rate** KPI card, **spending vs the previous period** with **⚠️ >20% jump** alerts (works for any date range), recurring commitments, a savings-goal bar, expenses-by-category, and more charts on demand.
 - **Transactions** — one-tap quick-filter chips + a **‹ month ›** stepper, top-bar search, and advanced filters (category, event, custom range) under **Filters**; **sliding chip pickers** when adding; tap-to-edit, undo on delete.
